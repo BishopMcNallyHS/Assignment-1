@@ -1,3 +1,5 @@
+//add global variables here
+
 void setup() {
 
 }
