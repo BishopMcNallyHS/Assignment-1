@@ -1,7 +1,6 @@
 Processing Assign 1 
 Learning to Draw
 
-Go to Repl.it and create a new Processing file called Assign1Draw 
 
 Create a comment at the beginning of your program that includes the following:
 File Name
